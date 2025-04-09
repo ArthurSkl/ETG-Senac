@@ -48,10 +48,6 @@ O projeto está dividido em diretórios organizados conforme as responsabilidade
 - MySQL
 - Servidor local (XAMPP, WAMP, Laragon ou equivalente)
 
-## 📎 Link do Repositório
-
-🔗 [ETG-Senac no GitHub](https://github.com/ArthurSkl/ETG-Senac)
-
 ---
 
 Desenvolvido com 💻 por **Arthur Skl** e equipe.
