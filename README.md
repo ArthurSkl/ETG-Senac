@@ -2,6 +2,18 @@
 
 O **ETG Escola** é um sistema web desenvolvido como parte de um projeto prático para a unidade do **SENAC Gastronomia**. Ele tem como objetivo auxiliar na organização e controle de atividades internas da escola, com foco em gestão eficiente e interface amigável.
 
+
+## 📸 Prints do Projeto
+
+| Tela de Login | Menu Principal | Relatório de Salas |
+|:-------------:|:--------------:|:------------------:|
+| ![Login](prints/login.jpg) | ![Menu](prints/menu.jpg) | ![Relatório](prints/relatorio.jpg) |
+
+| Salas Cadastradas | Tela de Recados | Edição de Sala |
+|:-----------------:|:---------------:|:--------------:|
+| ![Salas](prints/salas.jpg) | ![Recados](prints/tela-de-recados.jpg) | ![Editar Sala](prints/editar-sala.jpg) |
+
+
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi construído utilizando as seguintes tecnologias:
