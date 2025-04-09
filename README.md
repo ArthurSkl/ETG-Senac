@@ -50,4 +50,4 @@ O projeto está dividido em diretórios organizados conforme as responsabilidade
 
 ---
 
-Desenvolvido com 💻 por **Arthur Skl** e equipe.
+Desenvolvido com 💻 por **Arthur Augusto** e equipe.
