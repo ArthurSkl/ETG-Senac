@@ -1,53 +1,62 @@
-# ETG Escola
+# ETG Restaurante
 
-O **ETG Escola** é um sistema web desenvolvido como parte de um projeto prático para a unidade do **SENAC Gastronomia**. Ele tem como objetivo auxiliar na organização e controle de atividades internas da escola, com foco em gestão eficiente e interface amigável.
-
+O **ETG Restaurante** é um sistema web desenvolvido como parte de um projeto prático para a unidade do **SENAC Gastronomia**. Seu objetivo é facilitar a organização interna do restaurante-escola, oferecendo ferramentas para controle de checklists, relatórios e comunicação da equipe.
 
 ## 📸 Prints do Projeto
 
-| Tela de Login | Menu Principal | Relatório de Salas |
-|:-------------:|:--------------:|:------------------:|
-| ![Login](prints/login.jpg) | ![Menu](prints/menu.jpg) | ![Relatório](prints/relatorio.jpg) |
+| Checklist | Cadastrar Checklist | Relatório |
+|:---------:|:-------------------:|:---------:|
+| ![Checklist](Prints/checklist-2.jpg) | ![Cadastrar Checklist](Prints/editar-cadastrar-checklists.jpg) | ![Relatório](Prints/relatorio.jpg) |
 
-| Salas Cadastradas | Tela de Recados | Edição de Sala |
-|:-----------------:|:---------------:|:--------------:|
-| ![Salas](prints/salas.jpg) | ![Recados](prints/tela-de-recados.jpg) | ![Editar Sala](prints/editar-sala.jpg) |
+| Infos ADM 1 | Infos ADM 2 | Botão Modo Dark |
+|:-----------:|:-----------:|:----------------:|
+| ![ADM1](Prints/informações%20ADM.jpg) | ![ADM2](Prints/informações%20ADM%202.jpg) | ![Dark Mode](Prints/botao-modo-dark.jpg) |
 
+| Realizar Checklist | Checklist 2 | Checklist Dark |
+|:------------------:|:------------:|:---------------:|
+| ![Realizar](Prints/realizar-checklist.jpg) | ![Realizar 2](Prints/realizar-checklist-2.jpg) | ![Dark](Prints/realizar-checklist2-drak.jpg) |
+
+| Recados 1 | Recados 2 | Salas |
+|:----------:|:----------:|:------:|
+| ![Recados 1](Prints/Recados%201.jpg) | ![Recados 2](Prints/Recados%202.jpg) | ![Salas](Prints/salas.jpg) |
+
+| Salas 2 |
+|:--------:|
+| ![Salas 2](Prints/salas%202.jpg) |
 
 ## 🚀 Tecnologias Utilizadas
 
-Este projeto foi construído utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- **HTML5** e **CSS3** — Para a estrutura e estilo das páginas.
-- **JavaScript** — Para interações e funcionalidades no front-end.
-- **PHP** — Back-end responsável pela lógica da aplicação e comunicação com o banco de dados.
-- **MySQL** — Banco de dados relacional usado para armazenar as informações do sistema.
-- **SQL** — Consultas e manipulação de dados no banco.
-- **Git** e **GitHub** — Controle de versão e hospedagem do código.
-- **Metodologias Ágeis** — Organização e acompanhamento do progresso do desenvolvimento.
+- **HTML5** e **CSS3** — Para estruturação e estilo.
+- **JavaScript** — Para interatividade e validações.
+- **PHP** — Para regras de negócio e conexão com o banco de dados.
+- **MySQL** — Utilizado como banco de dados relacional.
+- **SQL** — Linguagem de consulta para manipulação dos dados.
+- **Git** e **GitHub** — Versionamento e colaboração no código.
+- **Metodologias Ágeis** — Organização e divisão de tarefas no time.
 
 ## 📁 Estrutura do Projeto
 
-O projeto está dividido em diretórios organizados conforme as responsabilidades de cada parte da aplicação:
-
-- `pages/` — Contém as páginas principais do sistema.
-- `includes/` — Arquivos reutilizáveis, como cabeçalhos, rodapés e conexões.
-- `assets/` — Imagens, folhas de estilo e scripts.
-- `db/` — Arquivos relacionados ao banco de dados e configurações.
+- `pages/` — Contém as páginas funcionais do sistema.
+- `includes/` — Componentes reaproveitáveis como conexões e menus.
+- `assets/` — Imagens, arquivos de estilo e scripts JavaScript.
+- `Prints/` — Pasta contendo capturas de tela do sistema.
+- `banco_etg.sql` — Estrutura do banco de dados.
 
 ## 💡 Funcionalidades
 
-- Cadastro e gerenciamento de alunos.
-- Controle de turmas e professores.
-- Relatórios administrativos.
-- Interface simples e acessível.
+- Criação e acompanhamento de checklists operacionais.
+- Controle administrativo com base em relatórios.
+- Comunicação via mural de recados.
+- Interface leve e funcional.
 
 ## 📌 Requisitos
 
-- PHP 7.4+
+- PHP 7.4 ou superior
 - MySQL
-- Servidor local (XAMPP, WAMP, Laragon ou equivalente)
+- XAMPP, WAMP, Laragon ou qualquer outro ambiente local
 
 ---
 
-Desenvolvido com 💻 por **Arthur Augusto** e equipe.
+Desenvolvido com 💡 e ☕ por **Arthur Augusto** e equipe.
