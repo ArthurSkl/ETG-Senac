@@ -37,7 +37,6 @@ O projeto está dividido em diretórios organizados conforme as responsabilidade
 
 ## 💡 Funcionalidades
 
-- Cadastro e gerenciamento de alunos.
 - Controle de turmas e professores.
 - Relatórios administrativos.
 - Interface simples e acessível.
